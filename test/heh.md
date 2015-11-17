@@ -1,5 +1,3 @@
-# heh
--------------
 
 <!DOCTYPE html>
 <html lang="en">
@@ -59,7 +57,7 @@
         </div>
         <div class="col-sm-9 content">
             <!--文档中文内容 start-->
-            <div class="alert alert-danger">move_uploaded_file(markdown/upload/20151117173453-37.jpg): failed to open stream: No such file or directory</div>            <!--文档中文内容 end-->
+            <div class="alert alert-danger">move_uploaded_file(markdown/upload/20151117173704-73.jpg): failed to open stream: Permission denied</div>            <!--文档中文内容 end-->
         </div>
     </div>
 </div>

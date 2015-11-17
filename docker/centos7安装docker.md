@@ -1,3 +1,13 @@
+<!--
+author: yuyc
+date: 2015-11-17
+title: centos7安装docker
+tags: docker install
+category: docker
+status: publish
+summary: 在centos7上进行安装docker服务，及采用系统编译镜像介绍！
+-->
+
 #centos7安装docker
 New in version 1.0
 
